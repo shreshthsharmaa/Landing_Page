@@ -151,3 +151,9 @@ margin: 10px;
   font-weight: bolder;
   color: #1F2937;
 }
+footer{
+  background-color: #1F2937;
+  color: #E5E7EB;
+  text-align: center;
+  padding: 30px;
+}
